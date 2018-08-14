@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container" >
+  <image class="user-background" src="/pictures/4090523_094113601000_2.jpg" ></image>
+  <view class="userinfo">
+    
+    <image class="user-icon" src="/pictures/92a04c07e3e2c7dec845dc41365e340e.jpg"></image>
+    <text class="user-name">雨天争锋</text>
+  </view>
+  <button bindtap="toView">跳转到个人空间</button>
+  <view class="info">
+    <text>爱好:</text>
+    <text>常用的应用:</text> 
+    <text>最近常听的歌:</text> 
+  </view>
+</view>

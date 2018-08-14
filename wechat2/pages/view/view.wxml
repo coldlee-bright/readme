@@ -1,0 +1,11 @@
+<!--pages/view/view.wxml-->
+<view class="container">
+  <view class="title">
+    
+    <image class="user-icon"src="/pictures/92a04c07e3e2c7dec845dc41365e340e.jpg"></image>
+    <text>雨天争锋的空间</text>
+  </view>
+  <view></view>
+</view>
+  <button class="tv" bindtap="toIndex" hover-class="tv2" >返回主界面</button>
+

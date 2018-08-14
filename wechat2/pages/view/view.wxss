@@ -1,0 +1,40 @@
+/* pages/view/view.wxss */
+.container{
+padding:0;
+}
+.title{
+  font-family:KAiTi;
+  font-size: 40rpx;
+  width:100%;
+  background-color:blanchedalmond;
+  padding-bottom:30rpx;
+  border-bottom:3rpx dotted rgb(105, 206, 10);
+}
+.title text{
+   display:inline-block;
+   margin-top:40rpx;
+}
+.user-icon{
+  
+  width:150rpx;
+  height:150rpx;
+
+}
+
+.tv{
+  position:fixed;
+  bottom:0rpx;
+  width:100%;
+  background-color: rgba(238, 255, 0, 0.247);
+  color:blueviolet;
+  
+}
+.tv2{
+  position:fixed;
+  bottom:0rpx;
+  width:100%;
+  background-color:rgb(221, 186, 32);
+  color:white;
+  
+}
+

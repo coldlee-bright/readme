@@ -1,0 +1,52 @@
+.container{
+  height:100%;
+  width:100%;
+  padding:0;
+
+
+}
+.userinfo{
+  margin-top:600rpx;
+  width:300rpx;
+  text-align:center;
+
+}
+.user-icon{
+  width:300rpx;
+  height:300rpx;
+  margin-left:50rpx;
+  float:left;
+}
+.user-name{
+  display:inline-block;
+  margin-top:20rpx;
+  font-family:KaiTi;
+  
+}
+button{
+  margin-top:30rpx;
+  padding-top:30rpx;
+  width:300rpx;
+  height:100rpx;
+  font-size:35rpx;
+  line-height:1;
+   font-family:KaiTi
+}
+.info{
+  margin-top:50rpx;
+  border-top:5rpx dotted rgb(128, 128, 128);
+  width:100%;
+  height:200rpx;
+ 
+}
+.user-background{
+  position:fixed;
+  z-index:-1;
+  height:1500rpx;
+  opacity: 0.2;
+}
+.info text{
+  display:block;
+  font-family:KaiTi;
+  margin-top:30rpx;
+}
