@@ -1,0 +1,10 @@
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\obj\Debug\鼠标点击速度测试.csprojAssemblyReference.cache
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\obj\Debug\鼠标点击速度测试.Form1.resources
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\obj\Debug\鼠标点击速度测试.Properties.Resources.resources
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\obj\Debug\鼠标点击速度测试.csproj.GenerateResource.cache
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\obj\Debug\鼠标点击速度测试.csproj.CoreCompileInputs.cache
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\bin\Debug\鼠标点击速度测试.exe.config
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\bin\Debug\鼠标点击速度测试.exe
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\bin\Debug\鼠标点击速度测试.pdb
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\obj\Debug\鼠标点击速度测试.exe
+E:\新建文件夹\鼠标点击速度测试\鼠标点击速度测试\obj\Debug\鼠标点击速度测试.pdb
